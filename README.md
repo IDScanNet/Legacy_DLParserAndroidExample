@@ -1,4 +1,8 @@
-# Driver License Parser Library for Android
+# [DEPRECATED] Driver License Parser Library for Android
+
+**Note: This repository was deprecated. Please, check our new [Android-Parsing-SDK](https://github.com/IDScanNet/Android-Parsing-SDK-Sample)**
+
+## Description
 
 This project demonstrates how to use **Driver License Parser library for Android** from [IDScan.net](https://idscan.net/).
 
