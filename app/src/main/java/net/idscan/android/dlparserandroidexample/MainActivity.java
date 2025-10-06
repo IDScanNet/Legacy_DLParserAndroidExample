@@ -19,8 +19,9 @@
 package net.idscan.android.dlparserandroidexample;
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import net.idscan.android.dlparser.DLParser;
 import net.idscan.android.dlparser.DLParser.DLParserException;
@@ -30,7 +31,7 @@ import java.io.UnsupportedEncodingException;
 
 public class MainActivity extends AppCompatActivity {
     private DLParser parser = null;
-    private static final String _KEY = "CF47wsW6ZAj2eZ4Mdfo72+k9Q61wQbemMf+EtZxMBHaS/J2xOhk7+T6zMRKf8Jb3dWV6RSBfp1/H/Nc/MnI23yV8qTH+NnyEhb/MLcnQ7gQpao0adr+yITXuHUJiXWu5q4FH58owjMNy1UMNggFqrqkh99XT//kdRthrWP1+GdU=";
+    private static final String _KEY = "xdM3ZaJrddWzX+jHfnkvKWbUb3s8QsaUkF9iQV58AUnH4NCNoNPUBqEjJe5cMMJ95JptU3/GoBhy5bs5/4SYVaGoN962RA/6G6rdsetziMQ/P56r39rGwapiiwkZ206fHmsDFwVcW36OoYGBRm+cAOBFSS9XJBxpr3eBoo6MYhk=";
     final String test_data = "%MNBURNSVILLE^HOMER J. SYMPSON^13225 MADRID RD^?\n\n;636038326007403611=12091991090106?\n\n%\" 55306      D               F064124   HZL                           X\"+H)     ?";
 
     @Override
